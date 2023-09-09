@@ -1,5 +1,6 @@
 # some terminal styling
-> this is just an example not a library to use as-is
+> part of the effort for the community
+> https://github.com/Lynet101/Mojo_community-lib
 ```
 fn main():
     var t=pp_()
