@@ -1,4 +1,4 @@
-# some terminal styling
+# some console styling
 > part of the effort for the community
 > https://github.com/Lynet101/Mojo_community-lib
 ```
