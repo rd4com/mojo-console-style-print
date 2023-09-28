@@ -25,10 +25,14 @@ fn main():
     t | "normal"
 ```
 # doc
-> bg is background and fg is foreground,clr clear the screen and reset put back everything to normal
-### use t | String(123) for the numbers and t() for new line
-- reset
-- clr
+> bg is background and fg is foreground
+ 
+> t | String(123) for numbers
+
+> t() for new line
+
+- reset              *reset to default style*
+- clr                *clear the screen*
 - bold_on
 - bold_off
 - italic_on
