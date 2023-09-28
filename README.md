@@ -1,7 +1,9 @@
-# some console styling
-> part of the effort for the community
+> :heart: part of the effort for the community
 > https://github.com/Lynet101/Mojo_community-lib
-```
+
+> ⚠️ Has not been tested, not to use as-is
+# some console styling
+```python
 fn main():
     var t=pp_()
     
